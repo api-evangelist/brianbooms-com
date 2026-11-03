@@ -1,4 +1,4 @@
-# brianbooms-com
+# Brian Booms
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,125 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-brianbooms-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://brianbooms.com/
+Brian Booms creates ambient music for sleep, meditation, focus and calm, offering a 24/7 ambient radio station, free sleep‑music downloads, and digital products. The site also provides x402 pay‑per‑call data endpoints for AI agents and follows the Steward trust standard, positioning the brand as an AI‑assisted artist and content creator.
+
+**Areas:** Music · Ambient · Sleep · Meditation · AI
+
+## Brian Booms on APIs.io
+
+Everything profiled for Brian Booms is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/brianbooms-com/](https://apis.io/providers/brianbooms-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (19)
+
+- [Brian Booms Ascendency API](https://apis.io/apis/brianbooms-com/brianbooms-com-ascendency-api/) — The Ascendency API from Brian Booms — 2 operation(s) for ascendency.
+- [Brian Booms Btc API](https://apis.io/apis/brianbooms-com/brianbooms-com-btc-api/) — The Btc API from Brian Booms — 2 operation(s) for btc.
+- [Brian Booms Buy API](https://apis.io/apis/brianbooms-com/brianbooms-com-buy-api/) — The Buy API from Brian Booms — 32 operation(s) for buy.
+- [Brian Booms Catalog API](https://apis.io/apis/brianbooms-com/brianbooms-com-catalog-api/) — The Catalog API from Brian Booms — 1 operation(s) for catalog.
+- [Brian Booms Clinic API](https://apis.io/apis/brianbooms-com/brianbooms-com-clinic-api/) — The Clinic API from Brian Booms — 5 operation(s) for clinic.
+- [Brian Booms Data API](https://apis.io/apis/brianbooms-com/brianbooms-com-data-api/) — The Data API from Brian Booms — 3 operation(s) for data.
+- [Brian Booms Health API](https://apis.io/apis/brianbooms-com/brianbooms-com-health-api/) — The Health API from Brian Booms — 1 operation(s) for health.
+- [Brian Booms Inquiry API](https://apis.io/apis/brianbooms-com/brianbooms-com-inquiry-api/) — The Inquiry API from Brian Booms — 1 operation(s) for inquiry.
+- [Brian Booms License API](https://apis.io/apis/brianbooms-com/brianbooms-com-license-api/) — The License API from Brian Booms — 3 operation(s) for license.
+- [Brian Booms Lyrics API](https://apis.io/apis/brianbooms-com/brianbooms-com-lyrics-api/) — The Lyrics API from Brian Booms — 1 operation(s) for lyrics.
+- [Brian Booms Merch Kit API](https://apis.io/apis/brianbooms-com/brianbooms-com-merch-kit-api/) — The Merch Kit API from Brian Booms — 1 operation(s) for merch kit.
+- [Brian Booms Playlist API](https://apis.io/apis/brianbooms-com/brianbooms-com-playlist-api/) — The Playlist API from Brian Booms — 1 operation(s) for playlist.
+- [Brian Booms Press Kit API](https://apis.io/apis/brianbooms-com/brianbooms-com-press-kit-api/) — The Press Kit API from Brian Booms — 1 operation(s) for press kit.
+- [Brian Booms Rail API](https://apis.io/apis/brianbooms-com/brianbooms-com-rail-api/) — The Rail API from Brian Booms — 1 operation(s) for rail.
+- [Brian Booms Research API](https://apis.io/apis/brianbooms-com/brianbooms-com-research-api/) — The Research API from Brian Booms — 4 operation(s) for research.
+- [Brian Booms Rewards API](https://apis.io/apis/brianbooms-com/brianbooms-com-rewards-api/) — The Rewards API from Brian Booms — 1 operation(s) for rewards.
+- [Brian Booms Sleep API](https://apis.io/apis/brianbooms-com/brianbooms-com-sleep-api/) — The Sleep API from Brian Booms — 2 operation(s) for sleep.
+- [Brian Booms Tips API](https://apis.io/apis/brianbooms-com/brianbooms-com-tips-api/) — The Tips API from Brian Booms — 3 operation(s) for tips.
+- [Brian Booms Tools API](https://apis.io/apis/brianbooms-com/brianbooms-com-tools-api/) — The Tools API from Brian Booms — 2 operation(s) for tools.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Brianbooms Com Agentic Access](https://apis.io/agentic-access/brianbooms-com/brianbooms-com-agentic-access/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Brian Booms API Rules](https://apis.io/rules/brianbooms-com/brianbooms-com-rules/)
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Brianbooms Com Authentication](https://apis.io/security/brianbooms-com/brianbooms-com-authentication/)
+- [Brianbooms Com Domain Security](https://apis.io/security/brianbooms-com/brianbooms-com-domain-security/)
+- [Brianbooms Com Vulnerability Disclosure](https://apis.io/security/brianbooms-com/brianbooms-com-vulnerability-disclosure/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://brianbooms.com/)
+- [Documentation](https://brianbooms.com/guides/)
+- [Getting started](https://brianbooms.com/blog/10-hour-sleep-music-setup/)
+- [API reference](https://brianbooms.com/llms.txt)
+- [Blog](https://brianbooms.com/blog/)
+- [Security](https://brianbooms.com/terms/)
+- [Terms of service](https://brianbooms.com/terms/)
+- [Privacy policy](https://brianbooms.com/privacy/)
+- [Status](https://brianbooms.com/status/)
+
+## API Evangelist rating
+
+**Kin Score 43.7** — developing · rubric 0.25.0 · scored 2026-11-03
+
+| Facet | Score |
+|---|---|
+| Discoverability | 67.9 |
+| Contract quality | 43.6 |
+| Contract governance | 65.5 |
+| Operational transparency | 26.3 |
+| Developer ergonomics | 42.9 |
+| Access clarity | 21.1 |
+
+**Agent readiness 36.3** — agent-ready
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | conformant |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | documented (partial credit) |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | — |
+| Operation Distinctiveness | distinct |
+
+**Regulatory alignment 28.2** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/brianbooms-com/](https://apis.io/providers/brianbooms-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Brian Booms: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/brianbooms-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
